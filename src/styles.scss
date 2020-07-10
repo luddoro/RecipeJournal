@@ -1,4 +1,7 @@
-$bg-color: #e7e7e7;
-$primary-red: #CE5F5F;
-$paragraph-font: Roboto;
-$title-font: Roboto;
+@import "variables.scss";
+@import "bootslegstrap.scss";
+
+body {
+  margin: 0;
+  font-family: $font;
+}
