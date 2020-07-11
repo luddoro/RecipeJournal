@@ -33,10 +33,10 @@
       true,
       "rxjs/Rx"
     ],
-    "import-spacing": true,
+    "import-spacing": false,
     "indent": {
       "options": [
-        "spaces"
+        "tabs"
       ]
     },
     "max-classes-per-file": false,
@@ -95,8 +95,7 @@
       }
     },
     "typedef-whitespace": {
-      "options": [
-        {
+      "options": [{
           "call-signature": "nospace",
           "index-signature": "nospace",
           "parameter": "nospace",

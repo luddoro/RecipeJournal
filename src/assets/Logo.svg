@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1.00747,0,0,1.00398,-4.18001,0)">
-        <rect x="1.786" y="0" width="796.429" height="597.619" style="fill:rgb(206,95,95);"/>
-    </g>
-    <g transform="matrix(1,0,0,1,-55.938,92.1819)">
-        <text x="74.405px" y="242.857px" style="font-family:'RetrowMentho', 'Retrow Mentho';font-size:120px;fill:white;">RecipeJournal</text>
+<svg width="100%" height="100%" viewBox="0 0 763 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-18.9355,-235.078)">
+        <g transform="matrix(1,0,0,1,-55.938,92.1819)">
+            <text x="74.405px" y="242.857px" style="font-family:'RetrowMentho', 'Retrow Mentho';font-size:120px;fill:white;">RecipeJournal</text>
+        </g>
     </g>
 </svg>
