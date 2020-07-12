@@ -1,6 +1,26 @@
 @import "../../../variables.scss";
 
 .titleBox {
-    background-color: $primaryRed;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
     color: $text;
+    background-color: $primaryRed;
+
+}
+
+.LoginButton {
+    border: 2px solid white;
+    background-color: $primaryRed;
+    color: white;
+    font-weight: bold;
+    padding: 14px 28px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.topBar {
+    background-color: $primaryRed;
+    padding: 2rem;
 }

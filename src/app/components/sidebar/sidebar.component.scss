@@ -1,0 +1,25 @@
+@import "../../../variables.scss";
+
+.sidebar {
+    display: flex;
+    width: 15rem;
+    background-color: $primaryRed;
+    color: #E7E7E7;
+    height: 100vh;
+}
+
+.sidebar-nav {
+    list-style: none;
+    font-size: 20px;
+
+
+}
+
+
+.nav-link {
+    margin-bottom: 3rem;
+}
+
+.settings {
+    align-self: flex-end;
+}
